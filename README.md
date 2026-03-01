@@ -1,2 +1,2 @@
 # ai-project-starter
-My first AI-based project
+AI Sentiment Analyzer using Python
